@@ -1,0 +1,8 @@
+# yaml-language-server: $schema=https://sdm.etica.ai/v/0.6.0b1/sdm.schema.json
+
+
+# geojsonl (GeoJSON Text Sequences), tsv, hxl.csv
+data:
+  - https://sdmtestdata.etica.ai/d/hospital.076.osm.geojsonl
+  - https://sdmtestdata.etica.ai/d/countries.001.wikidata.tsv
+  - https://sdmtestdata.etica.ai/d/countries-territories-unocha.001.hxl.csv

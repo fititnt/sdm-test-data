@@ -1,0 +1,7 @@
+# yaml-language-server: $schema=https://sdm.etica.ai/v/0.6.0b1/sdm.schema.json
+
+# tsv, hxl.csv
+# Files geojsonl is on test-005.sdm.yml
+data:
+  - https://sdmtestdata.etica.ai/d/countries.001.wikidata.tsv
+  - https://sdmtestdata.etica.ai/d/countries-territories-unocha.001.hxl.csv

@@ -1,206 +1,207 @@
-country	wikidata	unm49	iso3166n	iso3166p1a2	iso3166p1a3	osmrelid	unescot	usciafb	usfips4	gadm
-http://www.wikidata.org/entity/Q47588	Q47588					11107464				
-http://www.wikidata.org/entity/Q34020	Q34020	570	570	NU	NIU	3548481	concept855	niue	NE	
-http://www.wikidata.org/entity/Q34020	Q34020	570	570	NU	NIU	1558556	concept855	niue	NE	
-http://www.wikidata.org/entity/Q29999	Q29999		528	NL	NLD	2323309		netherlands		
-http://www.wikidata.org/entity/Q126726574	Q126726574									
-http://www.wikidata.org/entity/Q16	Q16	124	124	CA	CAN	1428125	concept766	canada	CA	CAN
-http://www.wikidata.org/entity/Q17	Q17	392	392	JP	JPN	382313	concept835	japan	JA	
-http://www.wikidata.org/entity/Q20	Q20	578	578	NO	NOR	1059668	concept14609	norway	NO	
-http://www.wikidata.org/entity/Q21	Q21					58447				
-http://www.wikidata.org/entity/Q22	Q22					58446				
-http://www.wikidata.org/entity/Q25	Q25					58437				
-http://www.wikidata.org/entity/Q26	Q26					156393				GBR.2_1
-http://www.wikidata.org/entity/Q27	Q27	372	372	IE	IRL	62273	concept909	ireland	EI	
-http://www.wikidata.org/entity/Q28	Q28	348	348	HU	HUN	21335	concept908	hungary	HU	HUN
-http://www.wikidata.org/entity/Q29	Q29	724	724	ES	ESP	1311341	concept923	spain	SP	ESP
-http://www.wikidata.org/entity/Q30	Q30	840	840	US	USA	148838	concept806	united-states	US	USA
-http://www.wikidata.org/entity/Q31	Q31	056	056	BE	BEL	52411	concept893	belgium	BE	BEL
-http://www.wikidata.org/entity/Q33	Q33	246	246	FI	FIN	54224	concept10480	finland	FI	FIN
-http://www.wikidata.org/entity/Q34	Q34	752	752	SE	SWE	52822	concept10481	sweden	SW	SWE
-http://www.wikidata.org/entity/Q35	Q35	208	208	DK	DNK	50046	concept7367	denmark	DA	
-http://www.wikidata.org/entity/Q36	Q36	616	616	PL	POL	49715	concept918	poland	PL	
-http://www.wikidata.org/entity/Q37	Q37	440	440	LT	LTU	72596	concept912	lithuania	LH	LTU
-http://www.wikidata.org/entity/Q38	Q38	380	380	IT	ITA	365331	concept910	italy	IT	
-http://www.wikidata.org/entity/Q39	Q39	756	756	CH	CHE	51701	concept924	switzerland	SZ	CHE
-http://www.wikidata.org/entity/Q40	Q40	040	040	AT	AUT	16239	concept890	austria	AU	AUT
-http://www.wikidata.org/entity/Q41	Q41	300	300	GR	GRC	192307	concept907	greece	GR	
-http://www.wikidata.org/entity/Q43	Q43	792	792	TR	TUR	174737	concept876	turkey	TU	
-http://www.wikidata.org/entity/Q45	Q45	620	620	PT	PRT	295480	concept919	portugal	PO	
-http://www.wikidata.org/entity/Q55	Q55	528				47796	concept917	netherlands	NL	NLD
-http://www.wikidata.org/entity/Q77	Q77	858	858	UY	URY	287072	concept805	uruguay	UY	URY
-http://www.wikidata.org/entity/Q79	Q79	818	818	EG	EGY	1473947	concept706	egypt	EG	
-http://www.wikidata.org/entity/Q96	Q96	484	484	MX	MEX	114686	concept787	mexico	MX	
-http://www.wikidata.org/entity/Q114	Q114	404	404	KE	KEN	192798	concept715	kenya	KE	
-http://www.wikidata.org/entity/Q115	Q115	231	231	ET	ETH	192800	concept709	ethiopia	ET	
-http://www.wikidata.org/entity/Q117	Q117	288	288	GH	GHA	192781	concept712	ghana	GH	
-http://www.wikidata.org/entity/Q142	Q142	250	250	FR	FRA	2202162	concept902	france	FR	FRA
-http://www.wikidata.org/entity/Q145	Q145	826	826	GB	GBR	62149	concept925	united-kingdom	UK	GBR
-http://www.wikidata.org/entity/Q148	Q148	156	156	CN	CHN	270056		china	CH	
-http://www.wikidata.org/entity/Q155	Q155	076	076	BR	BRA	59470	concept764	brazil	BR	
-http://www.wikidata.org/entity/Q159	Q159	643	643	RU	RUS	60189	concept921	russia	RS	
-http://www.wikidata.org/entity/Q159	Q159	643	643	RU	RUS	60189	concept5270	russia	RS	
-http://www.wikidata.org/entity/Q183	Q183	276	276	DE	DEU	51477	concept904		GM	
-http://www.wikidata.org/entity/Q184	Q184	112	112	BY	BLR	59065	concept892	belarus	BO	BLR
-http://www.wikidata.org/entity/Q189	Q189	352	352	IS	ISL	299133	concept12132	iceland	IC	
-http://www.wikidata.org/entity/Q191	Q191	233	233	EE	EST	79510	concept900	estonia	EN	EST
-http://www.wikidata.org/entity/Q211	Q211	428	428	LV	LVA	72594	concept911	latvia	LG	
-http://www.wikidata.org/entity/Q213	Q213	203	203	CZ	CZE	51684	concept7343	czechia	EZ	CZE
-http://www.wikidata.org/entity/Q214	Q214	703	703	SK	SVK	14296	concept8621	slovakia	LO	SVK
-http://www.wikidata.org/entity/Q215	Q215	705	705	SI	SVN	218657	concept8622	slovenia	SI	
-http://www.wikidata.org/entity/Q218	Q218	642	642	RO	ROU	90689	concept920	romania	RO	ROU
-http://www.wikidata.org/entity/Q219	Q219	100	100	BG	BGR	186382	concept894	bulgaria	BU	BGR
-http://www.wikidata.org/entity/Q221	Q221	807	807	MK	MKD	53293	concept8623	north-macedonia	MK	
-http://www.wikidata.org/entity/Q222	Q222	008	008	AL	ALB	53292	concept888	albania	AL	ALB
-http://www.wikidata.org/entity/Q224	Q224	191	191	HR	HRV	214885	concept896	croatia	HR	
-http://www.wikidata.org/entity/Q227	Q227	031	031	AZ	AZE	364110	concept891	azerbaijan	AJ	AZE
-http://www.wikidata.org/entity/Q228	Q228	020	020	AD	AND	9407	concept2368	andorra	AN	AND
-http://www.wikidata.org/entity/Q229	Q229	196	196	CY	CYP	3263726	concept897	cyprus	CY	
-http://www.wikidata.org/entity/Q232	Q232	398	398	KZ	KAZ	214665	concept837	kazakhstan	KZ	
-http://www.wikidata.org/entity/Q233	Q233	470	470	MT	MLT	365307	concept914	malta	MT	
-http://www.wikidata.org/entity/Q236	Q236	499	499	ME	MNE	53296	concept17059	montenegro	MJ	
-http://www.wikidata.org/entity/Q237	Q237	336	336	VA	VAT	36989		holy-see-vatican-city	VT	
-http://www.wikidata.org/entity/Q241	Q241	192	192	CU	CUB	307833	concept773	cuba	CU	
-http://www.wikidata.org/entity/Q252	Q252	360	360	ID	IDN	304751	concept830	indonesia	ID	
-http://www.wikidata.org/entity/Q965	Q965	854	854	BF	BFA	192783	concept693	burkina-faso	UV	
-http://www.wikidata.org/entity/Q970	Q970	174	174	KM	COM	535790	concept700	comoros	CN	
-http://www.wikidata.org/entity/Q971	Q971	178	178	CG	COG	192794	concept701	congo-republic-of-the	CF	
-http://www.wikidata.org/entity/Q974	Q974	180	180	CD	COD	192795	concept702	congo-democratic-republic-of-the	CG	
-http://www.wikidata.org/entity/Q977	Q977	262	262	DJ	DJI	192801	concept704	djibouti	DJ	
-http://www.wikidata.org/entity/Q986	Q986	232	232	ER	ERI	296961	concept708	eritrea	ER	
-http://www.wikidata.org/entity/Q1000	Q1000	266	266	GA	GAB	192793	concept710	gabon	GB	
-http://www.wikidata.org/entity/Q1005	Q1005	270	270	GM	GMB	192774	concept711	gambia-the	GA	
-http://www.wikidata.org/entity/Q1006	Q1006	324	324	GN	GIN	192778	concept713	guinea	GV	
-http://www.wikidata.org/entity/Q1007	Q1007	624	624	GW	GNB	192776	concept714	guinea-bissau	PU	GNB
-http://www.wikidata.org/entity/Q1008	Q1008	384	384	CI	CIV	192779	concept703	cote-divoire	IV	CIV
-http://www.wikidata.org/entity/Q1009	Q1009	120	120	CM	CMR	192830	concept695	cameroon	CM	
-http://www.wikidata.org/entity/Q1011	Q1011	132	132	CV	CPV	535774	concept696	cabo-verde	CV	
-http://www.wikidata.org/entity/Q1013	Q1013	426	426	LS	LSO	2093234	concept716	lesotho	LT	LSO
-http://www.wikidata.org/entity/Q1014	Q1014	430	430	LR	LBR	192780	concept717	liberia	LI	
-http://www.wikidata.org/entity/Q1016	Q1016	434	434	LY	LBY	192758	concept718	libya	LY	
-http://www.wikidata.org/entity/Q1019	Q1019	450	450	MG	MDG	447325	concept719	madagascar	MA	
-http://www.wikidata.org/entity/Q1020	Q1020	454	454	MW	MWI	195290	concept9796	malawi	MI	MWI
-http://www.wikidata.org/entity/Q1025	Q1025	478	478	MR	MRT	192763	concept721	mauritania	MR	MRT
-http://www.wikidata.org/entity/Q1025	Q1025	478	478	MR	MRT	2695812	concept721	mauritania	MR	MRT
-http://www.wikidata.org/entity/Q1027	Q1027	480	480	MU	MUS	535828	concept722	mauritius	MP	MUS
-http://www.wikidata.org/entity/Q1028	Q1028	504	504	MA	MAR	3630439	concept724	morocco	MO	
-http://www.wikidata.org/entity/Q1029	Q1029	508	508	MZ	MOZ	195273	concept725	mozambique	MZ	
-http://www.wikidata.org/entity/Q1030	Q1030	516	516	NA	NAM	195266	concept726	namibia	WA	NAM
-http://www.wikidata.org/entity/Q1032	Q1032	562	562	NE	NER	192786	concept727	niger	NG	
-http://www.wikidata.org/entity/Q1033	Q1033	566	566	NG	NGA	192787	concept728	nigeria	NI	
-http://www.wikidata.org/entity/Q1036	Q1036	800	800	UG	UGA	192796	concept746	uganda	UG	UGA
-http://www.wikidata.org/entity/Q1037	Q1037	646	646	RW	RWA	171496	concept731	rwanda	RW	RWA
-http://www.wikidata.org/entity/Q1039	Q1039	678	678	ST	STP	535880	concept734	sao-tome-and-principe	TP	
-http://www.wikidata.org/entity/Q1041	Q1041	686	686	SN	SEN	192775	concept735	senegal	SG	
-http://www.wikidata.org/entity/Q1042	Q1042	690	690	SC	SYC	536765	concept736	seychelles	SE	
-http://www.wikidata.org/entity/Q1044	Q1044	694	694	SL	SLE	192777	concept737	sierra-leone	SL	
-http://www.wikidata.org/entity/Q1045	Q1045	706	706	SO	SOM	192799	concept738	somalia	SO	
-http://www.wikidata.org/entity/Q1049	Q1049	729	729	SD	SDN	192789	concept741	sudan	SU	
-http://www.wikidata.org/entity/Q1050	Q1050	748	748	SZ	SWZ	88210	concept742	eswatini	WZ	
-http://www.wikidata.org/entity/Q1246	Q1246					2088990		kosovo	KV	
-http://www.wikidata.org/entity/Q3908	Q3908					349036			SP58	
-http://www.wikidata.org/entity/Q5705	Q5705					349053			SP56	ESP.6_1
-http://www.wikidata.org/entity/Q16644	Q16644	580	580	MP	MNP	306004		northern-mariana-islands	CQ	
-http://www.wikidata.org/entity/Q21203	Q21203	533	533	AW	ABW	1231749	concept758	aruba	AA	ABW
-http://www.wikidata.org/entity/Q26273	Q26273	534	534	SX	SXM	1231790	concept17085	sint-maarten	NN	
-http://www.wikidata.org/entity/Q26988	Q26988	184	184	CK	COK	2184233	concept820	cook-islands	CW	
-http://www.wikidata.org/entity/Q258	Q258	710	710	ZA	ZAF	87565	concept739	south-africa	SF	ZAF
-http://www.wikidata.org/entity/Q262	Q262	012	012	DZ	DZA	192756	concept689	algeria	AG	
-http://www.wikidata.org/entity/Q265	Q265	860	860	UZ	UZB	196240	concept880	uzbekistan	UZ	
-http://www.wikidata.org/entity/Q298	Q298	152	152	CL	CHL	167454	concept770	chile	CI	
-http://www.wikidata.org/entity/Q334	Q334	702	702	SG	SGP	536780	concept865	singapore	SN	
-http://www.wikidata.org/entity/Q347	Q347	438	438	LI	LIE	1155955	concept13448	liechtenstein	LS	LIE
-http://www.wikidata.org/entity/Q398	Q398	048	048	BH	BHR	378734	concept815	bahrain	BA	BHR
-http://www.wikidata.org/entity/Q399	Q399	051	051	AM	ARM	364066	concept889	armenia	AM	
-http://www.wikidata.org/entity/Q408	Q408	036	036	AU	AUS	80500	concept814	australia	AS	AUS
-http://www.wikidata.org/entity/Q414	Q414	032	032	AR	ARG	286393	concept757	argentina	AR	ARG
-http://www.wikidata.org/entity/Q419	Q419	604	604	PE	PER	288247	concept794	peru	PE	
-http://www.wikidata.org/entity/Q423	Q423	408	408	KP	PRK	192734	concept6629	korea-north	KN	PRK
-http://www.wikidata.org/entity/Q424	Q424	116	116	KH	KHM	49898	concept818	cambodia	CB	
-http://www.wikidata.org/entity/Q574	Q574	626	626	TL	TLS	305142	concept16993	timor-leste	TT	
-http://www.wikidata.org/entity/Q657	Q657	148	148	TD	TCD	2361304	concept699	chad	CD	
-http://www.wikidata.org/entity/Q664	Q664	554	554	NZ	NZL	556706	concept854	new-zealand	NZ	NZL
-http://www.wikidata.org/entity/Q668	Q668	356	356	IN	IND	304716	concept12233	india	IN	
-http://www.wikidata.org/entity/Q672	Q672	798	798	TV	TUV	2177266	concept878	tuvalu	TV	
-http://www.wikidata.org/entity/Q683	Q683	882	882	WS	WSM	1872673	concept863	samoa	WS	WSM
-http://www.wikidata.org/entity/Q683	Q683	882	882	WS	WSM	1872673	concept884	samoa	WS	WSM
-http://www.wikidata.org/entity/Q685	Q685	090	090	SB	SLB	1857436	concept866	solomon-islands	BP	
-http://www.wikidata.org/entity/Q686	Q686	548	548	VU	VUT	2177246	concept881	vanuatu	NH	VUT
-http://www.wikidata.org/entity/Q691	Q691	598	598	PG	PNG	307866	concept14720	papua-new-guinea	PP	
-http://www.wikidata.org/entity/Q695	Q695	585	585	PW	PLW	571805	concept14719	palau	PS	
-http://www.wikidata.org/entity/Q697	Q697	520	520	NR	NRU	571804	concept852	nauru	NR	
-http://www.wikidata.org/entity/Q702	Q702	583	583	FM	FSM	571802	concept849	micronesia-federated-states-of	FM	
-http://www.wikidata.org/entity/Q711	Q711	496	496	MN	MNG	161033	concept851	mongolia	MG	
-http://www.wikidata.org/entity/Q712	Q712	242	242	FJ	FJI	571747	concept823	fiji	FJ	FJI
-http://www.wikidata.org/entity/Q717	Q717	862	862	VE	VEN	272644	concept807	venezuela	VE	
-http://www.wikidata.org/entity/Q733	Q733	600	600	PY	PRY	287077	concept793	paraguay	PA	
-http://www.wikidata.org/entity/Q734	Q734	328	328	GY	GUY	287083	concept782	guyana	GY	GUY
-http://www.wikidata.org/entity/Q736	Q736	218	218	EC	ECU	108089	concept776	ecuador	EC	
-http://www.wikidata.org/entity/Q739	Q739	170	170	CO	COL	120027	concept771	colombia	CO	
-http://www.wikidata.org/entity/Q750	Q750	068	068	BO	BOL	252645	concept763	bolivia	BL	BOL
-http://www.wikidata.org/entity/Q754	Q754	780	780	TT	TTO	555717	concept802	trinidad-and-tobago	TD	
-http://www.wikidata.org/entity/Q757	Q757	670	670	VC	VCT	550725	concept799	saint-vincent-and-the-grenadines	VC	
-http://www.wikidata.org/entity/Q760	Q760	662	662	LC	LCA	550728	concept797	saint-lucia	ST	
-http://www.wikidata.org/entity/Q763	Q763	659	659	KN	KNA	536899	concept796	saint-kitts-and-nevis	SC	
-http://www.wikidata.org/entity/Q766	Q766	388	388	JM	JAM	555017	concept785	jamaica	JM	JAM
-http://www.wikidata.org/entity/Q769	Q769	308	308	GD	GRD	550727	concept779	grenada	GJ	
-http://www.wikidata.org/entity/Q774	Q774	320	320	GT	GTM	1521463	concept781	guatemala	GT	
-http://www.wikidata.org/entity/Q778	Q778	044	044	BS	BHS	547469	concept759	bahamas-the	BF	
-http://www.wikidata.org/entity/Q781	Q781	028	028	AG	ATG	536900	concept756	antigua-and-barbuda	AC	ATG
-http://www.wikidata.org/entity/Q783	Q783	340	340	HN	HND	287670	concept784	honduras	HO	
-http://www.wikidata.org/entity/Q784	Q784	212	212	DM	DMA	307823	concept774	dominica	DO	
-http://www.wikidata.org/entity/Q786	Q786	214	214	DO	DOM	307828	concept775	dominican-republic	DR	
-http://www.wikidata.org/entity/Q792	Q792	222	222	SV	SLV	1520612	concept777	el-salvador	ES	
-http://www.wikidata.org/entity/Q794	Q794	364	364	IR	IRN	304938	concept831	iran	IR	
-http://www.wikidata.org/entity/Q794	Q794	364	364	IR	IRN	304938	concept832	iran	IR	
-http://www.wikidata.org/entity/Q796	Q796	368	368	IQ	IRQ	304934	concept833	iraq	IZ	
-http://www.wikidata.org/entity/Q800	Q800	188	188	CR	CRI	287667	concept772	costa-rica	CS	
-http://www.wikidata.org/entity/Q801	Q801	376	376	IL	ISR	1473946	concept834	israel	IS	
-http://www.wikidata.org/entity/Q805	Q805	887	887	YE	YEM	305092	concept885	yemen	YM	
-http://www.wikidata.org/entity/Q810	Q810	400	400	JO	JOR	184818	concept836	jordan	JO	JOR
-http://www.wikidata.org/entity/Q811	Q811	558	558	NI	NIC	287666	concept790	nicaragua	NU	
-http://www.wikidata.org/entity/Q813	Q813	417	417	KG	KGZ	178009	concept841	kyrgyzstan	KG	
-http://www.wikidata.org/entity/Q819	Q819	418	418	LA	LAO	49903	concept842	laos	LA	
-http://www.wikidata.org/entity/Q822	Q822	422	422	LB	LBN	184843	concept843	lebanon	LE	
-http://www.wikidata.org/entity/Q826	Q826	462	462	MV	MDV	536773	concept847	maldives	MV	
-http://www.wikidata.org/entity/Q833	Q833	458	458	MY	MYS	2108121	concept846	malaysia	MY	
-http://www.wikidata.org/entity/Q836	Q836	104	104	MM	MMR	50371	concept14426	burma	BM	
-http://www.wikidata.org/entity/Q837	Q837	524	524	NP	NPL	184633	concept14502	nepal	NP	
-http://www.wikidata.org/entity/Q842	Q842	512	512	OM	OMN	305138	concept857	oman	MU	
-http://www.wikidata.org/entity/Q843	Q843	586	586	PK	PAK	307573	concept858	pakistan	PK	
-http://www.wikidata.org/entity/Q846	Q846	634	634	QA	QAT	305095	concept862	qatar	QA	
-http://www.wikidata.org/entity/Q851	Q851	682	682	SA	SAU	307584	concept864	saudi-arabia	SA	
-http://www.wikidata.org/entity/Q854	Q854	144	144	LK	LKA	536807	concept869	sri-lanka	CE	
-http://www.wikidata.org/entity/Q858	Q858	760	760	SY	SYR	184840	concept870	syria	SY	
-http://www.wikidata.org/entity/Q863	Q863	762	762	TJ	TJK	214626	concept872	tajikistan	TI	
-http://www.wikidata.org/entity/Q865	Q865		158	TW	TWN	449220		taiwan	TW	TWN.7_1
-http://www.wikidata.org/entity/Q869	Q869	764	764	TH	THA	2067731	concept873	thailand	TH	
-http://www.wikidata.org/entity/Q874	Q874	795	795	TM	TKM	223026	concept877	turkmenistan	TX	
-http://www.wikidata.org/entity/Q878	Q878	784	784	AE	ARE	307763	concept879	united-arab-emirates	AE	ARE
-http://www.wikidata.org/entity/Q881	Q881	704	704	VN	VNM	49915	concept882	vietnam	VM	
-http://www.wikidata.org/entity/Q884	Q884	410	410	KR	KOR	307756	concept839	korea-south	KS	
-http://www.wikidata.org/entity/Q889	Q889	004	004	AF	AFG	303427	concept810	afghanistan	AF	AFG
-http://www.wikidata.org/entity/Q902	Q902	050	050	BD	BGD	184640	concept816	bangladesh	BG	BGD
-http://www.wikidata.org/entity/Q912	Q912	466	466	ML	MLI	192785	concept720	mali	ML	
-http://www.wikidata.org/entity/Q916	Q916	024	024	AO	AGO	195267	concept690	angola	AO	AGO
-http://www.wikidata.org/entity/Q917	Q917	064	064	BT	BTN	184629	concept3750	bhutan	BT	BTN
-http://www.wikidata.org/entity/Q921	Q921	096	096	BN	BRN	2103120	concept817	brunei	BX	BRN
-http://www.wikidata.org/entity/Q924	Q924	834	834	TZ	TZA	195270	concept743	tanzania	TZ	
-http://www.wikidata.org/entity/Q928	Q928	608	608	PH	PHL	443174	concept860	philippines	RP	
-http://www.wikidata.org/entity/Q929	Q929	140	140	CF	CAF	192790	concept698	central-african-republic	CT	CAF
-http://www.wikidata.org/entity/Q945	Q945	768	768	TG	TGO	192782	concept744	togo	TO	
-http://www.wikidata.org/entity/Q948	Q948	788	788	TN	TUN	192757	concept745	tunisia	TS	
-http://www.wikidata.org/entity/Q953	Q953	894	894	ZM	ZMB	195271	concept750	zambia	ZA	ZMB
-http://www.wikidata.org/entity/Q954	Q954	716	716	ZW	ZWE	195272	concept751	zimbabwe	ZI	ZWE
-http://www.wikidata.org/entity/Q958	Q958	728	728	SS	SSD	1656678	concept17083	south-sudan	OD	
-http://www.wikidata.org/entity/Q962	Q962	204	204	BJ	BEN	192784	concept691	benin	BN	BEN
-http://www.wikidata.org/entity/Q963	Q963	072	072	BW	BWA	1889339	concept692	botswana	BC	BWA
-http://www.wikidata.org/entity/Q967	Q967	108	108	BI	BDI	195269	concept694	burundi	BY	BDI
-http://www.wikidata.org/entity/Q219060	Q219060		275	PS	PSE	1703814	concept859			
-http://www.wikidata.org/entity/Q756617	Q756617					9112011				
-http://www.wikidata.org/entity/Q1926952	Q1926952									
-http://www.wikidata.org/entity/Q109534069	Q109534069									
-http://www.wikidata.org/entity/Q124153644	Q124153644									
-http://www.wikidata.org/entity/Q125422413	Q125422413									
-http://www.wikidata.org/entity/Q126325731	Q126325731									
-http://www.wikidata.org/entity/Q126362486	Q126362486									
+country	wikidata	P2082	P299	P297	P298	osmrelid	unescot	usciafb	usfips4	gadm	geo
+http://www.wikidata.org/entity/Q47588	Q47588					11107464					Point(-1.935555555 42.883055555)
+http://www.wikidata.org/entity/Q34020	Q34020	570	570	NU	NIU	3548481	concept855	niue	NE		Point(-169.916666666 -19.05)
+http://www.wikidata.org/entity/Q34020	Q34020	570	570	NU	NIU	1558556	concept855	niue	NE		Point(-169.916666666 -19.05)
+http://www.wikidata.org/entity/Q29999	Q29999		528	NL	NLD	2323309		netherlands			Point(4.883333333 52.366666666)
+http://www.wikidata.org/entity/Q126726574	Q126726574										
+http://www.wikidata.org/entity/Q26988	Q26988	184	184	CK	COK	2184233	concept820	cook-islands	CW		Point(-159.783333333 -21.233333333)
+http://www.wikidata.org/entity/Q16	Q16	124	124	CA	CAN	1428125	concept766	canada	CA	CAN	Point(-109.0 56.0)
+http://www.wikidata.org/entity/Q17	Q17	392	392	JP	JPN	382313	concept835	japan	JA		Point(136.0 35.0)
+http://www.wikidata.org/entity/Q20	Q20	578	578	NO	NOR	1059668	concept14609	norway	NO		Point(11.0 65.0)
+http://www.wikidata.org/entity/Q21	Q21					58447					Point(-1.0 53.0)
+http://www.wikidata.org/entity/Q21	Q21					58447					Point(10.77439 44.75606)
+http://www.wikidata.org/entity/Q22	Q22					58446					Point(-5.0 57.0)
+http://www.wikidata.org/entity/Q25	Q25					58437					Point(-3.633333333 52.35)
+http://www.wikidata.org/entity/Q26	Q26					156393				GBR.2_1	Point(-6.6925 54.6075)
+http://www.wikidata.org/entity/Q27	Q27	372	372	IE	IRL	62273	concept909	ireland	EI		Point(-8.0 53.0)
+http://www.wikidata.org/entity/Q28	Q28	348	348	HU	HUN	21335	concept908	hungary	HU	HUN	Point(19.0 47.0)
+http://www.wikidata.org/entity/Q29	Q29	724	724	ES	ESP	1311341	concept923	spain	SP	ESP	Point(-3.5 40.2)
+http://www.wikidata.org/entity/Q30	Q30	840	840	US	USA	148838	concept806	united-states	US	USA	Point(-98.5795 39.828175)
+http://www.wikidata.org/entity/Q31	Q31	056	056	BE	BEL	52411	concept893	belgium	BE	BEL	Point(4.668055555 50.641111111)
+http://www.wikidata.org/entity/Q33	Q33	246	246	FI	FIN	54224	concept10480	finland	FI	FIN	Point(27.0 65.0)
+http://www.wikidata.org/entity/Q34	Q34	752	752	SE	SWE	52822	concept10481	sweden	SW	SWE	Point(15.0 61.0)
+http://www.wikidata.org/entity/Q35	Q35	208	208	DK	DNK	50046	concept7367	denmark	DA		Point(10.0 56.0)
+http://www.wikidata.org/entity/Q36	Q36	616	616	PL	POL	49715	concept918	poland	PL		Point(19.0 52.0)
+http://www.wikidata.org/entity/Q37	Q37	440	440	LT	LTU	72596	concept912	lithuania	LH	LTU	Point(24.0 55.2)
+http://www.wikidata.org/entity/Q38	Q38	380	380	IT	ITA	365331	concept910	italy	IT		Point(12.5 42.5)
+http://www.wikidata.org/entity/Q39	Q39	756	756	CH	CHE	51701	concept924	switzerland	SZ	CHE	Point(8.231973 46.798562)
+http://www.wikidata.org/entity/Q40	Q40	040	040	AT	AUT	16239	concept890	austria	AU	AUT	Point(14.0 48.0)
+http://www.wikidata.org/entity/Q41	Q41	300	300	GR	GRC	192307	concept907	greece	GR		Point(23.0 38.5)
+http://www.wikidata.org/entity/Q43	Q43	792	792	TR	TUR	174737	concept876	turkey	TU		Point(36.0 39.0)
+http://www.wikidata.org/entity/Q45	Q45	620	620	PT	PRT	295480	concept919	portugal	PO		Point(-9.183333333 38.7)
+http://www.wikidata.org/entity/Q55	Q55	528				47796	concept917	netherlands	NL	NLD	Point(5.55 52.316666666)
+http://www.wikidata.org/entity/Q77	Q77	858	858	UY	URY	287072	concept805	uruguay	UY	URY	Point(-56.0 -33.0)
+http://www.wikidata.org/entity/Q79	Q79	818	818	EG	EGY	1473947	concept706	egypt	EG		Point(29.0 27.0)
+http://www.wikidata.org/entity/Q96	Q96	484	484	MX	MEX	114686	concept787	mexico	MX		Point(-102.0 23.0)
+http://www.wikidata.org/entity/Q114	Q114	404	404	KE	KEN	192798	concept715	kenya	KE		Point(38.0 0.1)
+http://www.wikidata.org/entity/Q115	Q115	231	231	ET	ETH	192800	concept709	ethiopia	ET		Point(40.0 9.0)
+http://www.wikidata.org/entity/Q117	Q117	288	288	GH	GHA	192781	concept712	ghana	GH		Point(-1.08 8.03)
+http://www.wikidata.org/entity/Q142	Q142	250	250	FR	FRA	2202162	concept902	france	FR	FRA	Point(2.0 47.0)
+http://www.wikidata.org/entity/Q145	Q145	826	826	GB	GBR	62149	concept925	united-kingdom	UK	GBR	Point(-2.0 54.6)
+http://www.wikidata.org/entity/Q148	Q148	156	156	CN	CHN	270056		china	CH		Point(103.451944444 35.844722222)
+http://www.wikidata.org/entity/Q155	Q155	076	076	BR	BRA	59470	concept764	brazil	BR		Point(-53.0 -14.0)
+http://www.wikidata.org/entity/Q159	Q159	643	643	RU	RUS	60189	concept921	russia	RS		Point(94.25 66.416666666)
+http://www.wikidata.org/entity/Q159	Q159	643	643	RU	RUS	60189	concept5270	russia	RS		Point(94.25 66.416666666)
+http://www.wikidata.org/entity/Q183	Q183	276	276	DE	DEU	51477	concept904		GM		Point(10.0 51.0)
+http://www.wikidata.org/entity/Q184	Q184	112	112	BY	BLR	59065	concept892	belarus	BO	BLR	Point(28.046666666 53.528333333)
+http://www.wikidata.org/entity/Q189	Q189	352	352	IS	ISL	299133	concept12132	iceland	IC		Point(-19.0 65.0)
+http://www.wikidata.org/entity/Q191	Q191	233	233	EE	EST	79510	concept900	estonia	EN	EST	Point(26.0 59.0)
+http://www.wikidata.org/entity/Q211	Q211	428	428	LV	LVA	72594	concept911	latvia	LG		Point(25.0 57.0)
+http://www.wikidata.org/entity/Q213	Q213	203	203	CZ	CZE	51684	concept7343	czechia	EZ	CZE	Point(15.0 50.0)
+http://www.wikidata.org/entity/Q214	Q214	703	703	SK	SVK	14296	concept8621	slovakia	LO	SVK	Point(20.0 49.0)
+http://www.wikidata.org/entity/Q215	Q215	705	705	SI	SVN	218657	concept8622	slovenia	SI		Point(15.0 46.0)
+http://www.wikidata.org/entity/Q218	Q218	642	642	RO	ROU	90689	concept920	romania	RO	ROU	Point(25.0 46.0)
+http://www.wikidata.org/entity/Q219	Q219	100	100	BG	BGR	186382	concept894	bulgaria	BU	BGR	Point(25.5 42.75)
+http://www.wikidata.org/entity/Q221	Q221	807	807	MK	MKD	53293	concept8623	north-macedonia	MK		Point(21.716667 41.65)
+http://www.wikidata.org/entity/Q222	Q222	008	008	AL	ALB	53292	concept888	albania	AL	ALB	Point(20.0 41.0)
+http://www.wikidata.org/entity/Q224	Q224	191	191	HR	HRV	214885	concept896	croatia	HR		Point(15.466667 45.25)
+http://www.wikidata.org/entity/Q227	Q227	031	031	AZ	AZE	364110	concept891	azerbaijan	AJ	AZE	Point(47.7 40.3)
+http://www.wikidata.org/entity/Q228	Q228	020	020	AD	AND	9407	concept2368	andorra	AN	AND	Point(1.555277777 42.558333333)
+http://www.wikidata.org/entity/Q229	Q229	196	196	CY	CYP	3263726	concept897	cyprus	CY		Point(33.0 35.0)
+http://www.wikidata.org/entity/Q232	Q232	398	398	KZ	KAZ	214665	concept837	kazakhstan	KZ		Point(68.0 48.0)
+http://www.wikidata.org/entity/Q233	Q233	470	470	MT	MLT	365307	concept914	malta	MT		Point(14.5 35.883333333)
+http://www.wikidata.org/entity/Q236	Q236	499	499	ME	MNE	53296	concept17059	montenegro	MJ		Point(19.216667 42.766667)
+http://www.wikidata.org/entity/Q237	Q237	336	336	VA	VAT	36989		holy-see-vatican-city	VT		Point(12.453 41.904)
+http://www.wikidata.org/entity/Q241	Q241	192	192	CU	CUB	307833	concept773	cuba	CU		Point(-79.5 22.0)
+http://www.wikidata.org/entity/Q252	Q252	360	360	ID	IDN	304751	concept830	indonesia	ID		Point(118.0 -2.0)
+http://www.wikidata.org/entity/Q965	Q965	854	854	BF	BFA	192783	concept693	burkina-faso	UV		Point(-2.066667 12.266667)
+http://www.wikidata.org/entity/Q970	Q970	174	174	KM	COM	535790	concept700	comoros	CN		Point(43.7 -12.3)
+http://www.wikidata.org/entity/Q971	Q971	178	178	CG	COG	192794	concept701	congo-republic-of-the	CF		Point(15.383330555 -0.75)
+http://www.wikidata.org/entity/Q974	Q974	180	180	CD	COD	192795	concept702	congo-democratic-republic-of-the	CG		Point(23.656111111 -2.88)
+http://www.wikidata.org/entity/Q977	Q977	262	262	DJ	DJI	192801	concept704	djibouti	DJ		Point(42.433333 11.8)
+http://www.wikidata.org/entity/Q986	Q986	232	232	ER	ERI	296961	concept708	eritrea	ER		Point(38.25 15.483333)
+http://www.wikidata.org/entity/Q1000	Q1000	266	266	GA	GAB	192793	concept710	gabon	GB		Point(11.5 -0.683330555)
+http://www.wikidata.org/entity/Q1005	Q1005	270	270	GM	GMB	192774	concept711	gambia-the	GA		Point(-15.5 13.5)
+http://www.wikidata.org/entity/Q1006	Q1006	324	324	GN	GIN	192778	concept713	guinea	GV		Point(-11.0 10.0)
+http://www.wikidata.org/entity/Q1007	Q1007	624	624	GW	GNB	192776	concept714	guinea-bissau	PU	GNB	Point(-15.0 12.0)
+http://www.wikidata.org/entity/Q1008	Q1008	384	384	CI	CIV	192779	concept703	cote-divoire	IV	CIV	Point(-6.0 8.0)
+http://www.wikidata.org/entity/Q1009	Q1009	120	120	CM	CMR	192830	concept695	cameroon	CM		Point(12.65 5.133333333)
+http://www.wikidata.org/entity/Q1011	Q1011	132	132	CV	CPV	535774	concept696	cabo-verde	CV		Point(-23.7 15.3)
+http://www.wikidata.org/entity/Q1013	Q1013	426	426	LS	LSO	2093234	concept716	lesotho	LT	LSO	Point(28.25 -29.55)
+http://www.wikidata.org/entity/Q1014	Q1014	430	430	LR	LBR	192780	concept717	liberia	LI		Point(-9.75 6.533333)
+http://www.wikidata.org/entity/Q1016	Q1016	434	434	LY	LBY	192758	concept718	libya	LY		Point(17.0 27.0)
+http://www.wikidata.org/entity/Q1019	Q1019	450	450	MG	MDG	447325	concept719	madagascar	MA		Point(47.0 -20.0)
+http://www.wikidata.org/entity/Q1020	Q1020	454	454	MW	MWI	195290	concept9796	malawi	MI	MWI	Point(34.0 -13.0)
+http://www.wikidata.org/entity/Q1025	Q1025	478	478	MR	MRT	192763	concept721	mauritania	MR	MRT	Point(-11.0 21.0)
+http://www.wikidata.org/entity/Q1025	Q1025	478	478	MR	MRT	2695812	concept721	mauritania	MR	MRT	Point(-11.0 21.0)
+http://www.wikidata.org/entity/Q1027	Q1027	480	480	MU	MUS	535828	concept722	mauritius	MP	MUS	Point(57.5 -20.2)
+http://www.wikidata.org/entity/Q1028	Q1028	504	504	MA	MAR	3630439	concept724	morocco	MO		Point(-6.0 32.0)
+http://www.wikidata.org/entity/Q1029	Q1029	508	508	MZ	MOZ	195273	concept725	mozambique	MZ		Point(35.0 -19.0)
+http://www.wikidata.org/entity/Q1030	Q1030	516	516	NA	NAM	195266	concept726	namibia	WA	NAM	Point(17.0 -23.0)
+http://www.wikidata.org/entity/Q1032	Q1032	562	562	NE	NER	192786	concept727	niger	NG		Point(10.0 17.0)
+http://www.wikidata.org/entity/Q1033	Q1033	566	566	NG	NGA	192787	concept728	nigeria	NI		Point(8.0 9.0)
+http://www.wikidata.org/entity/Q1036	Q1036	800	800	UG	UGA	192796	concept746	uganda	UG	UGA	Point(32.39 1.28)
+http://www.wikidata.org/entity/Q1037	Q1037	646	646	RW	RWA	171496	concept731	rwanda	RW	RWA	Point(30.0 -2.0)
+http://www.wikidata.org/entity/Q1039	Q1039	678	678	ST	STP	535880	concept734	sao-tome-and-principe	TP		Point(6.6 0.316667)
+http://www.wikidata.org/entity/Q1041	Q1041	686	686	SN	SEN	192775	concept735	senegal	SG		Point(-14.283333 14.366667)
+http://www.wikidata.org/entity/Q1042	Q1042	690	690	SC	SYC	536765	concept736	seychelles	SE		Point(52.766667 -7.1)
+http://www.wikidata.org/entity/Q1044	Q1044	694	694	SL	SLE	192777	concept737	sierra-leone	SL		Point(-12.1 8.5)
+http://www.wikidata.org/entity/Q1045	Q1045	706	706	SO	SOM	192799	concept738	somalia	SO		Point(47.0 6.0)
+http://www.wikidata.org/entity/Q1049	Q1049	729	729	SD	SDN	192789	concept741	sudan	SU		Point(32.0 15.0)
+http://www.wikidata.org/entity/Q1050	Q1050	748	748	SZ	SWZ	88210	concept742	eswatini	WZ		Point(31.433333 -26.483333)
+http://www.wikidata.org/entity/Q1246	Q1246					2088990		kosovo	KV		Point(20.833333333 42.55)
+http://www.wikidata.org/entity/Q3908	Q3908					349036			SP58		Point(-7.9 42.8)
+http://www.wikidata.org/entity/Q5705	Q5705					349053			SP56	ESP.6_1	Point(1.537777777 41.8375)
+http://www.wikidata.org/entity/Q16644	Q16644	580	580	MP	MNP	306004		northern-mariana-islands	CQ		Point(145.78 16.705)
+http://www.wikidata.org/entity/Q21203	Q21203	533	533	AW	ABW	1231749	concept758	aruba	AA	ABW	Point(-69.97422388 12.51106253)
+http://www.wikidata.org/entity/Q26273	Q26273	534	534	SX	SXM	1231790	concept17085	sint-maarten	NN		Point(-63.067777777 18.031944444)
+http://www.wikidata.org/entity/Q258	Q258	710	710	ZA	ZAF	87565	concept739	south-africa	SF	ZAF	Point(24.0 -29.0)
+http://www.wikidata.org/entity/Q262	Q262	012	012	DZ	DZA	192756	concept689	algeria	AG		Point(1.0 28.0)
+http://www.wikidata.org/entity/Q265	Q265	860	860	UZ	UZB	196240	concept880	uzbekistan	UZ		Point(66.0 41.0)
+http://www.wikidata.org/entity/Q298	Q298	152	152	CL	CHL	167454	concept770	chile	CI		Point(-71.0 -33.0)
+http://www.wikidata.org/entity/Q334	Q334	702	702	SG	SGP	536780	concept865	singapore	SN		Point(103.8 1.3)
+http://www.wikidata.org/entity/Q347	Q347	438	438	LI	LIE	1155955	concept13448	liechtenstein	LS	LIE	Point(9.553889 47.145)
+http://www.wikidata.org/entity/Q398	Q398	048	048	BH	BHR	378734	concept815	bahrain	BA	BHR	Point(50.551111 26.0675)
+http://www.wikidata.org/entity/Q399	Q399	051	051	AM	ARM	364066	concept889	armenia	AM		Point(44.95 40.383333)
+http://www.wikidata.org/entity/Q408	Q408	036	036	AU	AUS	80500	concept814	australia	AS	AUS	Point(133.0 -25.0)
+http://www.wikidata.org/entity/Q414	Q414	032	032	AR	ARG	286393	concept757	argentina	AR	ARG	Point(-64.0 -34.0)
+http://www.wikidata.org/entity/Q419	Q419	604	604	PE	PER	288247	concept794	peru	PE		Point(-76.0 -9.4)
+http://www.wikidata.org/entity/Q423	Q423	408	408	KP	PRK	192734	concept6629	korea-north	KN	PRK	Point(127.0 40.0)
+http://www.wikidata.org/entity/Q424	Q424	116	116	KH	KHM	49898	concept818	cambodia	CB		Point(105.0 12.5)
+http://www.wikidata.org/entity/Q574	Q574	626	626	TL	TLS	305142	concept16993	timor-leste	TT		Point(125.75 -8.966667)
+http://www.wikidata.org/entity/Q657	Q657	148	148	TD	TCD	2361304	concept699	chad	CD		Point(19.4 15.466667)
+http://www.wikidata.org/entity/Q664	Q664	554	554	NZ	NZL	556706	concept854	new-zealand	NZ	NZL	Point(174.0 -41.2)
+http://www.wikidata.org/entity/Q668	Q668	356	356	IN	IND	304716	concept12233	india	IN		Point(83.0 22.8)
+http://www.wikidata.org/entity/Q672	Q672	798	798	TV	TUV	2177266	concept878	tuvalu	TV		Point(178.005556 -7.475)
+http://www.wikidata.org/entity/Q683	Q683	882	882	WS	WSM	1872673	concept863	samoa	WS	WSM	Point(-172.2175 -13.745)
+http://www.wikidata.org/entity/Q683	Q683	882	882	WS	WSM	1872673	concept884	samoa	WS	WSM	Point(-172.2175 -13.745)
+http://www.wikidata.org/entity/Q685	Q685	090	090	SB	SLB	1857436	concept866	solomon-islands	BP		Point(159.816666666 -9.466666666)
+http://www.wikidata.org/entity/Q686	Q686	548	548	VU	VUT	2177246	concept881	vanuatu	NH	VUT	Point(168.016669444 -16.633330555)
+http://www.wikidata.org/entity/Q691	Q691	598	598	PG	PNG	307866	concept14720	papua-new-guinea	PP		Point(147.0 -6.3)
+http://www.wikidata.org/entity/Q695	Q695	585	585	PW	PLW	571805	concept14719	palau	PS		Point(134.55 7.466667)
+http://www.wikidata.org/entity/Q697	Q697	520	520	NR	NRU	571804	concept852	nauru	NR		Point(166.935 -0.5275)
+http://www.wikidata.org/entity/Q702	Q702	583	583	FM	FSM	571802	concept849	micronesia-federated-states-of	FM		Point(158.183333333 6.916666666)
+http://www.wikidata.org/entity/Q711	Q711	496	496	MN	MNG	161033	concept851	mongolia	MG		Point(105.0 46.0)
+http://www.wikidata.org/entity/Q712	Q712	242	242	FJ	FJI	571747	concept823	fiji	FJ	FJI	Point(178.0 -18.0)
+http://www.wikidata.org/entity/Q717	Q717	862	862	VE	VEN	272644	concept807	venezuela	VE		Point(-67.0 8.0)
+http://www.wikidata.org/entity/Q733	Q733	600	600	PY	PRY	287077	concept793	paraguay	PA		Point(-58.0 -23.5)
+http://www.wikidata.org/entity/Q734	Q734	328	328	GY	GUY	287083	concept782	guyana	GY	GUY	Point(-59.316667 5.733333)
+http://www.wikidata.org/entity/Q736	Q736	218	218	EC	ECU	108089	concept776	ecuador	EC		Point(-78.0 -1.0)
+http://www.wikidata.org/entity/Q739	Q739	170	170	CO	COL	120027	concept771	colombia	CO		Point(-73.25 4.0)
+http://www.wikidata.org/entity/Q750	Q750	068	068	BO	BOL	252645	concept763	bolivia	BL	BOL	Point(-64.991228611 -17.056869611)
+http://www.wikidata.org/entity/Q754	Q754	780	780	TT	TTO	555717	concept802	trinidad-and-tobago	TD		Point(-61.516666666 10.666666666)
+http://www.wikidata.org/entity/Q757	Q757	670	670	VC	VCT	550725	concept799	saint-vincent-and-the-grenadines	VC		Point(-61.2296 13.0139)
+http://www.wikidata.org/entity/Q760	Q760	662	662	LC	LCA	550728	concept797	saint-lucia	ST		Point(-60.966666666 13.883333333)
+http://www.wikidata.org/entity/Q763	Q763	659	659	KN	KNA	536899	concept796	saint-kitts-and-nevis	SC		Point(-62.666669444 17.271666666)
+http://www.wikidata.org/entity/Q766	Q766	388	388	JM	JAM	555017	concept785	jamaica	JM	JAM	Point(-77.4 18.18)
+http://www.wikidata.org/entity/Q769	Q769	308	308	GD	GRD	550727	concept779	grenada	GJ		Point(-61.666667 12.116667)
+http://www.wikidata.org/entity/Q774	Q774	320	320	GT	GTM	1521463	concept781	guatemala	GT		Point(-90.25 15.5)
+http://www.wikidata.org/entity/Q778	Q778	044	044	BS	BHS	547469	concept759	bahamas-the	BF		Point(-77.4 25.0)
+http://www.wikidata.org/entity/Q781	Q781	028	028	AG	ATG	536900	concept756	antigua-and-barbuda	AC	ATG	Point(-61.85 17.116666666)
+http://www.wikidata.org/entity/Q783	Q783	340	340	HN	HND	287670	concept784	honduras	HO		Point(-86.816667 14.633333)
+http://www.wikidata.org/entity/Q784	Q784	212	212	DM	DMA	307823	concept774	dominica	DO		Point(-61.333333 15.416667)
+http://www.wikidata.org/entity/Q786	Q786	214	214	DO	DOM	307828	concept775	dominican-republic	DR		Point(-70.2 18.8)
+http://www.wikidata.org/entity/Q792	Q792	222	222	SV	SLV	1520612	concept777	el-salvador	ES		Point(-88.866111 13.668889)
+http://www.wikidata.org/entity/Q794	Q794	364	364	IR	IRN	304938	concept831	iran	IR		Point(53.0 32.0)
+http://www.wikidata.org/entity/Q794	Q794	364	364	IR	IRN	304938	concept832	iran	IR		Point(53.0 32.0)
+http://www.wikidata.org/entity/Q796	Q796	368	368	IQ	IRQ	304934	concept833	iraq	IZ		Point(43.0 33.0)
+http://www.wikidata.org/entity/Q800	Q800	188	188	CR	CRI	287667	concept772	costa-rica	CS		Point(-84.0 10.0)
+http://www.wikidata.org/entity/Q801	Q801	376	376	IL	ISR	1473946	concept834	israel	IS		Point(35.0 31.0)
+http://www.wikidata.org/entity/Q805	Q805	887	887	YE	YEM	305092	concept885	yemen	YM		Point(48.0 15.5)
+http://www.wikidata.org/entity/Q810	Q810	400	400	JO	JOR	184818	concept836	jordan	JO	JOR	Point(36.5 31.2)
+http://www.wikidata.org/entity/Q811	Q811	558	558	NI	NIC	287666	concept790	nicaragua	NU		Point(-85.0 13.0)
+http://www.wikidata.org/entity/Q813	Q813	417	417	KG	KGZ	178009	concept841	kyrgyzstan	KG		Point(75.0 41.0)
+http://www.wikidata.org/entity/Q819	Q819	418	418	LA	LAO	49903	concept842	laos	LA		Point(104.1 18.2)
+http://www.wikidata.org/entity/Q822	Q822	422	422	LB	LBN	184843	concept843	lebanon	LE		Point(35.766667 33.833333)
+http://www.wikidata.org/entity/Q826	Q826	462	462	MV	MDV	536773	concept847	maldives	MV		Point(73.51 4.18)
+http://www.wikidata.org/entity/Q833	Q833	458	458	MY	MYS	2108121	concept846	malaysia	MY		Point(102.314361666 3.7805111)
+http://www.wikidata.org/entity/Q836	Q836	104	104	MM	MMR	50371	concept14426	burma	BM		Point(96.0 22.0)
+http://www.wikidata.org/entity/Q837	Q837	524	524	NP	NPL	184633	concept14502	nepal	NP		Point(84.0 28.0)
+http://www.wikidata.org/entity/Q842	Q842	512	512	OM	OMN	305138	concept857	oman	MU		Point(57.0 21.0)
+http://www.wikidata.org/entity/Q843	Q843	586	586	PK	PAK	307573	concept858	pakistan	PK		Point(71.0 30.0)
+http://www.wikidata.org/entity/Q846	Q846	634	634	QA	QAT	305095	concept862	qatar	QA		Point(51.212767 25.269535)
+http://www.wikidata.org/entity/Q851	Q851	682	682	SA	SAU	307584	concept864	saudi-arabia	SA		Point(44.116667 23.716667)
+http://www.wikidata.org/entity/Q854	Q854	144	144	LK	LKA	536807	concept869	sri-lanka	CE		Point(81.0 7.0)
+http://www.wikidata.org/entity/Q858	Q858	760	760	SY	SYR	184840	concept870	syria	SY		Point(38.583333 35.216667)
+http://www.wikidata.org/entity/Q863	Q863	762	762	TJ	TJK	214626	concept872	tajikistan	TI		Point(71.366667 38.583333)
+http://www.wikidata.org/entity/Q865	Q865		158	TW	TWN	449220		taiwan	TW	TWN.7_1	Point(121.0 24.0)
+http://www.wikidata.org/entity/Q869	Q869	764	764	TH	THA	2067731	concept873	thailand	TH		Point(101.0 14.0)
+http://www.wikidata.org/entity/Q874	Q874	795	795	TM	TKM	223026	concept877	turkmenistan	TX		Point(60.0 39.0)
+http://www.wikidata.org/entity/Q878	Q878	784	784	AE	ARE	307763	concept879	united-arab-emirates	AE	ARE	Point(54.3 24.4)
+http://www.wikidata.org/entity/Q881	Q881	704	704	VN	VNM	49915	concept882	vietnam	VM		Point(108.0 16.0)
+http://www.wikidata.org/entity/Q884	Q884	410	410	KR	KOR	307756	concept839	korea-south	KS		Point(128.0 36.0)
+http://www.wikidata.org/entity/Q889	Q889	004	004	AF	AFG	303427	concept810	afghanistan	AF	AFG	Point(66.0 33.0)
+http://www.wikidata.org/entity/Q902	Q902	050	050	BD	BGD	184640	concept816	bangladesh	BG	BGD	Point(89.866667 24.016667)
+http://www.wikidata.org/entity/Q912	Q912	466	466	ML	MLI	192785	concept720	mali	ML		Point(-4.0 17.0)
+http://www.wikidata.org/entity/Q916	Q916	024	024	AO	AGO	195267	concept690	angola	AO	AGO	Point(17.35 -12.35)
+http://www.wikidata.org/entity/Q917	Q917	064	064	BT	BTN	184629	concept3750	bhutan	BT	BTN	Point(90.5 27.45)
+http://www.wikidata.org/entity/Q921	Q921	096	096	BN	BRN	2103120	concept817	brunei	BX	BRN	Point(114.566667 4.4)
+http://www.wikidata.org/entity/Q924	Q924	834	834	TZ	TZA	195270	concept743	tanzania	TZ		Point(34.853888888 -6.306944444)
+http://www.wikidata.org/entity/Q928	Q928	608	608	PH	PHL	443174	concept860	philippines	RP		Point(123.0 12.0)
+http://www.wikidata.org/entity/Q929	Q929	140	140	CF	CAF	192790	concept698	central-african-republic	CT	CAF	Point(20.9 6.7)
+http://www.wikidata.org/entity/Q945	Q945	768	768	TG	TGO	192782	concept744	togo	TO		Point(1.183333 8.25)
+http://www.wikidata.org/entity/Q948	Q948	788	788	TN	TUN	192757	concept745	tunisia	TS		Point(10.0 34.0)
+http://www.wikidata.org/entity/Q953	Q953	894	894	ZM	ZMB	195271	concept750	zambia	ZA	ZMB	Point(28.0 -14.0)
+http://www.wikidata.org/entity/Q954	Q954	716	716	ZW	ZWE	195272	concept751	zimbabwe	ZI	ZWE	Point(30.0 -19.0)
+http://www.wikidata.org/entity/Q958	Q958	728	728	SS	SSD	1656678	concept17083	south-sudan	OD		Point(30.0 7.0)
+http://www.wikidata.org/entity/Q962	Q962	204	204	BJ	BEN	192784	concept691	benin	BN	BEN	Point(2.183333333 8.833333333)
+http://www.wikidata.org/entity/Q963	Q963	072	072	BW	BWA	1889339	concept692	botswana	BC	BWA	Point(23.7 -22.2)
+http://www.wikidata.org/entity/Q967	Q967	108	108	BI	BDI	195269	concept694	burundi	BY	BDI	Point(29.816667 -3.666667)
+http://www.wikidata.org/entity/Q219060	Q219060		275	PS	PSE	1703814	concept859				Point(35.25 32.0)
+http://www.wikidata.org/entity/Q756617	Q756617					9112011					Point(10.0 56.0)
+http://www.wikidata.org/entity/Q1926952	Q1926952										
+http://www.wikidata.org/entity/Q109534069	Q109534069										
+http://www.wikidata.org/entity/Q124153644	Q124153644										
+http://www.wikidata.org/entity/Q125422413	Q125422413										
+http://www.wikidata.org/entity/Q126325731	Q126325731										
+http://www.wikidata.org/entity/Q126362486	Q126362486										

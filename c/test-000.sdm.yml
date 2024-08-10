@@ -1,0 +1,4 @@
+# yaml-language-server: $schema=https://sdm.etica.ai/v/0.6.0b1/sdm.schema.json
+
+# data: []
+_meta: The test-000.sdm.yml is a conf file without data
